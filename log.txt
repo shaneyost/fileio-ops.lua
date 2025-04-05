@@ -1,0 +1,2 @@
+Hello to the log file!
+Hello to the log file again!
