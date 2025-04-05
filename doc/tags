@@ -1,1 +1,2 @@
-f	fileio-ops.txt	/*f*
+file_contents	fileio-ops.txt	/*file_contents*
+file_handle	fileio-ops.txt	/*file_handle*
