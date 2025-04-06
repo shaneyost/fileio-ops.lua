@@ -24,9 +24,9 @@
 ---     io.stdout:write("Hello World\n")
 --- <
 ---
---- But why is it not unreasonable if this behavior is implicitly handles for
+--- But why is it not unreasonable if this behavior is implicitly handled for
 --- me? Why would I ever want to manually write it out. Afterall, isn't this
---- the entire point to providing such convenient functions?
+--- the entire point to convenience functions?
 ---
 --- - You may need to write to both a log file and to stdout. Conveying clarity
 ---   and precision in this case ensures safe intention.
