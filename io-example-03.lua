@@ -1,6 +1,4 @@
 #!/usr/bin/env luajit
-local IO3 = {}
-
 --- I want to take some time to understand the IO methods read/write a bit 
 --- more in preparation for the next step which is reading/writing binary
 --- files. I've learned how to call these methods but haven't really inspected

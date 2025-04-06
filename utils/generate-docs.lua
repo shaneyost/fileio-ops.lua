@@ -5,4 +5,5 @@ require("mini.doc").generate({
     "io-example-01.lua",
     "io-example-02.lua",
     "io-example-03.lua",
+    "io-example-04.lua",
 })
